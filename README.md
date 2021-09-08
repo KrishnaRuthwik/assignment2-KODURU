@@ -3,7 +3,8 @@
 ###### Yellowstone National Park
 **Yellowstone National Park** Yellowstone became the first national park for all to enjoy the unique **hydrothermal** and geologic wonders. People from around the world have been drawn to Yellowstone to witness these wonders for themselves. Now, millions of people come to Yellowstone each year.
 
-**** Travelling from Maryville to Visakhapatnam
+***
+###### Travelling from Maryville to Visakhapatnam
 Directions 
 
 1.Firstly i made sure that there are no travel restrcitions from maryville to Yellowstone National Park as Its a Covid time.
@@ -17,10 +18,24 @@ Directions
 1.I took my camera with me to take pics of a beautiful side seeing along with that i also brought a pair of spare battries.
 2.I bought some outfits which makes me to feel comfortable in summer and a umbrella.
 
-UnOrdered-list 
+###### UnOrdered-list 
 * Go to Costco
 * take Groceries
  * Bread
  * Butter 
  * Instant Noodles
 *return back to home
+
+###### AboutMe
+[clickhere](https://github.com/KrishnaRuthwik/assignment2-KODURU/blob/616bf829a94ca5e26e648207ebfc9b894f970011/AboutMe.md)
+
+
+***
+
+###### Tables regarding food items
+
+| food        | Location    |  Price        |
+| :---        |    :----:   |          ---: |
+| GLucose     |  costco     |  $1.59        |
+| cheetos     |  Hyvee      |  $4.00        |   
+| Dry fruits  |  Walmart    |  $8.00        |
