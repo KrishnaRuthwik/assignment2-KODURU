@@ -47,3 +47,22 @@ Directions
 > Clouds come floating into my life, no longer to carry rain or usher storm, but to add color to my sunset sky. *-Rabindranath Tagore*
 
 > Arise,awake and donot stop until the goal is reached. *- Swamy Vivekananda*
+
+# Code Fencing 
+
+>Algebra is a branch of mathematics that deals with symbols and the arithmetic operations across these symbols. These symbols do not have any fixed values and are called variables. Link to ALgebra (https://www.cuemath.com/algebra/)
+
+```
+long long binpow(long long a, long long b) {
+    if (b == 0)
+        return 1;
+    long long res = binpow(a, b / 2);
+    if (b % 2)
+        return res * res * a;
+    else
+        return res * res;
+}
+
+```
+
+link for Source code : (https://cp-algorithms.com/algebra/binary-exp.html)
