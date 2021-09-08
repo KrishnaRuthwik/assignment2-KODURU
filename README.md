@@ -39,3 +39,11 @@ Directions
 | GLucose     |  costco     |  $1.59        |
 | cheetos     |  Hyvee      |  $4.00        |   
 | Dry fruits  |  Walmart    |  $8.00        |
+
+***
+
+# Pithy Quotes
+
+> Clouds come floating into my life, no longer to carry rain or usher storm, but to add color to my sunset sky. *-Rabindranath Tagore*
+
+> Arise,awake and donot stop until the goal is reached. *- Swamy Vivekananda*
