@@ -37,6 +37,7 @@ Directions
 | GLucose     |  costco     |  $1.59        |
 | cheetos     |  Hyvee      |  $4.00        |   
 | Dry fruits  |  Walmart    |  $8.00        |
+| Soft Drinks |  Hyvee      |  $6.00        |
 
 ***
 
