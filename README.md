@@ -17,12 +17,12 @@ Directions
 
 
 ###### UnOrdered-list 
-* Go to Costco
-* take Groceries
- * Bread
- * Butter 
- * Instant Noodles
-*return back to home
+* Camera
+* Food
+* Drinks
+* Music Speaker
+* Camera drone
+* Safety jacket
 
 ###### AboutMe
 [clickhere](https://github.com/KrishnaRuthwik/assignment2-KODURU/blob/616bf829a94ca5e26e648207ebfc9b894f970011/AboutMe.md)
